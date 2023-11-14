@@ -10,14 +10,14 @@ export const Home = () => {
     <>
     <DIV>
       <div className="text">
-        <h1>Have your <br />best <strong>Mock</strong> <br /> interview session</h1>
-        <p>Ace Your Interviews with AI-Powered Practice Sessions.</p>
+        <h1>Start preparing for Interviews</h1>
+        {/* <p>Ace Your Interviews with AI-Powered Practice Sessions.</p> */}
         <Link to={"/interviews"}>
-           <button>Try it Free</button>
+           <button>MOCK TESTS</button>
         </Link>
       </div>
       <div className="image-container">
-        <img src={aiImage} alt="" className="image" />
+        <img src="https://media.northwest.education/wp-content/uploads/2023/05/12143504/vecteezy_system-artificial-intelligence-chatgpt-chat-bot-ai_22479077_474-680x380.jpg" alt="" className="image" />
       </div>
      
     </DIV>
@@ -27,15 +27,15 @@ export const Home = () => {
 
 const DIV = styled.div`
   width: 100%;
-  height: 400px;
-  background-color: #0a2640;
+  height: 481px;
+  background-color: #87adcf;
   display: flex;
   margin-top: 0px;
   padding-top: 130px;
   padding-bottom: 130px;
-  color: white;
+  color: #000000;
   justify-content: space-evenly;
-
+background: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFDewOcYbCPbReZ7XwFsTcMKMROZugPfod8onsV-AvFJToNCQLNL06JBTr67V-z7ADFW_DytBuEdlrlL1EYhB2ftSOt0ZrmzTEWwyz5n40sGcNtVvYpG-kLzIVeFeB8a6fEsnv-LgVwRzK4FBqZojrsiX2-1H2htfCalWsiTfYaUgz5sdoC5o2Q8qKI-w/s1200/AI-websites-you-should-try.jpg");
 h1{
   font-size:47px;
 }
@@ -52,15 +52,15 @@ h1{
 
   .image {
     /* width: 100%; */
-    width: 400px;
-    height: auto;
+    width: 800px;
+    height: 500px;
    
   }
   
   button {
-    width: 50%;
+    width: 70%;
     margin-top:30px;
-    background-color: #5cdb94;
+    background-color: #fefffe;
     font-size: 25px;
     padding: 16px;
     border-radius: 20px;

@@ -1,3 +1,4 @@
+import { url } from "inspector";
 import { Link, Navigate } from "react-router-dom";
 
 export const InterviewTypes = () => {
@@ -5,17 +6,20 @@ export const InterviewTypes = () => {
     <div
       style={{
         display: "grid",
-        gridTemplateColumns: "repeat(2,1fr)",
-        margin: "40px",
-        padding: "40px",
+        gridTemplateColumns: "repeat(3,1fr)",
+        // margin: "40px",
+        padding: "112px",
+        gap:"10px",
+       backgroundColor:"lightblue"
       }}
     >
       <div
         style={{
           boxShadow:
             " rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px ",
-          width: "500px",
+          // width: "400px",
           padding: "40px",
+          backgroundColor:"teal"
         }}
       >
         <h1
@@ -58,7 +62,7 @@ export const InterviewTypes = () => {
           <button
             style={{
               display: "Block",
-              backgroundColor: "#4CAF50",
+              backgroundColor: "#000000",
               margin: "20px auto",
               color: " white",
               padding: "10px 20px",
@@ -75,8 +79,9 @@ export const InterviewTypes = () => {
         style={{
           boxShadow:
             " rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px ",
-          width: "500px",
+          // width: "500px",
           padding: "40px",
+          backgroundColor:"orange"
         }}
       >
         <h1
@@ -100,7 +105,7 @@ export const InterviewTypes = () => {
           <button
             style={{
               display: "Block",
-              backgroundColor: "#4CAF50",
+              backgroundColor: "#000001",
               margin: "20px auto",
               color: " white",
               padding: "10px 20px",
@@ -117,9 +122,10 @@ export const InterviewTypes = () => {
         style={{
           boxShadow:
             " rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px ",
-          width: "500px",
+          // width: "500px",
           padding: "40px",
-          marginTop: "40px",
+          // marginTop: "40px",
+          backgroundColor:"pink"
         }}
       >
         <h1
@@ -143,7 +149,7 @@ export const InterviewTypes = () => {
           <button
             style={{
               display: "Block",
-              backgroundColor: "#4CAF50",
+              backgroundColor: "#000000",
               margin: "20px auto",
               color: " white",
               padding: "10px 20px",

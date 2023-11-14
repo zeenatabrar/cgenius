@@ -1,17 +1,17 @@
 import React from 'react'
 import {Link} from "react-router-dom";
 import styled from "styled-components";
-import Logo from "../assets/pngwing3.png"
+import Logo from "../assets/pngwing.png"
 
 export const NavBar = () => {
   return (
     <DIV>
-        <div className='logo-container'>
-        <Link className='link' to={"/"}>
+        <h1 className='logo-container'>
+        {/* <Link className='link' to={"/"}>
           <img className='logo' src={Logo} alt="logo" />
-        </Link>
+        </Link> */}
           CodeGenius
-        </div>
+        </h1>
         <div className='links-container'>
           <Link className='link' to={"/"}>Home</Link>
           <Link className='link' to={"/interviews"}>Interviews</Link>
@@ -57,7 +57,7 @@ padding-bottom:20px;
   font-weight: 500;
 }
 
-background-color: #5cdb94;
+background-color: #ffffff;
 @media (max-width: 768px) {
   display: flex;
 justify-content: space-arround;

@@ -178,8 +178,7 @@ export const Interview = () => {
                   transcript
                 ) : (
                   <h2 className="your_answer">
-                    Click on Start button and start speaking and submit your
-                    answer after completing ....
+                    Click on Start button and start speaking
                   </h2>
                 )}
               </div>
@@ -270,7 +269,7 @@ const DIV = styled.div`
     border: solid lightgray 1px;
     margin: 10px 15px;
     border-radius: 5px;
-    background-color: #5cdb94;
+    background-color: #5cc8db;
     background-color: #05396b;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
     color: white;
@@ -288,7 +287,7 @@ const DIV = styled.div`
   }
 
   .copy {
-    background-color: #5cdb94;
+    background-color: #5c93db;
     font-weight: 900;
     border-radius: 5px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
@@ -359,7 +358,7 @@ const DIV = styled.div`
     margin-top: 30px;
     border-radius: 3px;
     width: 200px;
-    background-color: white;
+    background-color: #a82020;
     border: solid black 1px;
     background-color: #5cdb94;
     color: black;
