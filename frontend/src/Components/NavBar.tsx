@@ -8,7 +8,7 @@ export const NavBar = () => {
     <DIV>
         <h1 className='logo-container'>
         {/* <Link className='link' to={"/"}>
-          <img className='logo' src={Logo} alt="logo" />
+          <img className='logo' src="https://code.org/images/ai/ai-curriclum-machine-learning.png" alt="logo" />
         </Link> */}
           CodeGenius
         </h1>
