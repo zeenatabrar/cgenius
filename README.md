@@ -10,7 +10,7 @@
 ## Contributors
 
 - [Zeenat Abrar](https://github.com/zeenatabrar)
-- [Vaishnavi](https://github.com/Vaishnavi0717)
+
 - [Shubham Ratnakar Kulkarni](https://github.com/Shubham17121999)
 
 
