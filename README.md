@@ -41,6 +41,7 @@ Welcome to Code Genius, your AI-powered interview preparation platform. We are d
 
 ## Landing Page
 ![Landing page](<https://drive.google.com/file/d/1Hkkjs7VOj85EWvvX7ZWgyFldggJb4E-F/view?usp=sharing>)
+<a href="" target="blank"><img src="https://drive.google.com/file/d/1Hkkjs7VOj85EWvvX7ZWgyFldggJb4E-F/view?usp=sharing"/></a>
 ## interview Page
 ![interview page](<readmephoto/Screenshot (215).png>)
 
