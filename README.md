@@ -47,12 +47,17 @@ Welcome to Code Genius, your AI-powered interview preparation platform. We are d
 
 ## interview Page
 ![interview page](<readmephoto/Screenshot (215).png>)
+![Alt Text](https://drive.google.com/uc?export=view&id=1UvayDyhKH-OafSNdt2L53QNpNKFk4RPr)
+
 
 ## about us Page
 ![admin page](<readmephoto/Screenshot (216).png>)
+![Alt Text](https://drive.google.com/uc?export=view&id=1V7RzkL0BFwpQtL-JrhC5w9RmyV7GvkRx)
 
-## contact Page
+
+## feedback Page
 ![login page](<readmephoto/Screenshot (1955).png>)
+![Alt Text](https://drive.google.com/uc?export=view&id=1GjwnrJrV79XPdmzL15Yp4lVGN4Enw4h7)
 
 
 ## API Root Endpoint
